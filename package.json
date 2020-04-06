@@ -1,0 +1,9 @@
+{
+  "name": "vanilla-js",
+  "version": "1.0.0",
+  "description": "使用原生JS开发小案例",
+  "main": "index.js",
+  "repository": "git@github.com:ppambler/vanilla-js.git",
+  "author": "ppambler <allinlbj@gmail.com>",
+  "license": "MIT"
+}
